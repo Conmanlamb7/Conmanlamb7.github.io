@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Lamb Blog</title>
+    <link>http://conmanlamb7.github.io/</link>
+    <description>Recent content on The Lamb Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2023 16:14:46 -0600</lastBuildDate><atom:link href="http://conmanlamb7.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://conmanlamb7.github.io/posts/firstpost/</link>
+      <pubDate>Thu, 02 Mar 2023 16:14:46 -0600</pubDate>
+      
+      <guid>http://conmanlamb7.github.io/posts/firstpost/</guid>
+      <description>Let&amp;rsquo;s get started!</description>
+    </item>
+    
+  </channel>
+</rss>
